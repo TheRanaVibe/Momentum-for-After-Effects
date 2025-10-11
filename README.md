@@ -19,6 +19,19 @@ It provides a seamless, intuitive, and non-destructive workflow to add physicall
 *   **💾 Save & Share Presets:** Perfected a specific feel? Save your custom-tweaked Bounce or Squash & Stretch settings as a User Preset to instantly reuse in any project.
 *   **❤️ Free & For the Community:** Momentum is completely free to remove all barriers to entry for students, freelancers, and studios alike.
 
+This tool is, and will always be, **free**. It was created to give back to the motion design community.
+
+### Key Features
+
+*   **Non-Destructive Rigs:** Apply interactive physics rigs as simple effect controllers, allowing you to tweak and art-direct your secondary motion in real-time.
+*   **Two Physics Engines:**
+    *   **Bounce:** A powerful and versatile engine for creating realistic bounce and overshoot on any keyframed property (Position, Scale, Rotation).
+    *   **Squash & Stretch (S&S):** Automatically adds character and life to your layers with velocity-based stretching and impact-based jiggles.
+*   **Additive Animation Presets:** Kickstart your motion with a set of fully-customizable, built-in animation presets that apply keyframes additively to your layer's current state.
+*   **Unified Bake Engine:** When your scene gets heavy, finalize your work with a single click. The intelligent bake engine converts all selected Momentum rigs into clean, optimized keyframes, restoring real-time playback.
+*   **User Preset System:** Love a specific feel? Save your custom-tweaked Bounce or S&S rig settings as a user preset for instant recall in future projects.
+*   **Professional Workflow:** From a "Rotating Body Mode" for S&S to a "Bake to Duplicate" feature that preserves your original rigs, every feature is built with the professional in mind.
+
 ---
 
 ## Installation
