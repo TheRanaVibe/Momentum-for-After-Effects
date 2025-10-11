@@ -36,7 +36,7 @@ This tool is, and will always be, **free**. It was created to give back to the m
 
 ## Installation
 
-1.  Go to the **[Releases page](https://github.com/YourUsername/YourRepoName/releases)** on the right-hand side.
+1.  Go to the **https://github.com/TheRanaVibe/Momentum-for-After-Effects/releases/tag/v1.0https://github.com/TheRanaVibe/Momentum-for-After-Effects/releases/tag/v1.0 )** on the right-hand side.
 2.  Download the `Momentum.jsx` file from the latest release.
 3.  In After Effects, go to `File > Scripts > Run Script File...` and select the `Momentum.jsx` file.
 
