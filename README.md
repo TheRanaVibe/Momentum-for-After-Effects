@@ -47,6 +47,17 @@ This tool is, and will always be, **free**. It was created to give back to the m
 
 ---
 
+## Quickstart Guide: Your First 5 Minutes
+
+1.  Create a new Composition and add a simple Shape Layer.
+2.  With the layer selected, open Momentum from the `Window` menu.
+3.  In the **"1. Animate"** panel, select the `"Slide In - Bottom"` preset and click **"Apply Animation"**. Your layer now animates into the frame.
+4.  A new button, **"⬇ Enhance Selection with Physics ⬇"**, will appear. Click it.
+5.  You are now in the **"2. Enhance"** panel on the `Bounce` tab. Select the `"2. Classic Cartoon"` preset and click **"Apply / Update Selected Rig"**.
+6.  Play your animation. It now has a lively bounce!
+7.  Go to the **Effect Controls** panel on your layer. Tweak the **"Bounce | Elasticity"** slider and watch the animation update in real-time.
+8.  When you're happy, go to the **"3. Bake"** panel in Momentum and click **"Bake All Momentum Rigs in Selection"**.
+9.  Done! You now have a clean, keyframed animation with zero performance overhead.
 ## Reporting a Bug or Suggesting a Feature
 
 Momentum is built for the community, and your feedback is essential!
